@@ -1,2 +1,2 @@
 # pyBlur
-Fun implementation of a convulation matrix to blur an image
+Fun implementation of a convolution matrix to blur an image
